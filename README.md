@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrafali23" alt="ashrafali23" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Docker and Redis**
 
-- 🤝 I’m looking for help with **Node.js projects**
+- 🤝 I’m looking for help with **Node.js open source projects**
 
-- 💬 Ask me about **Node.js and react.js**
+- 💬 Ask me about **Any programming topics**
 
 - 📫 How to reach me **ashrafammar230@gmail.com**
 
